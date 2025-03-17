@@ -1,4 +1,4 @@
-#**Decision Tree: Overview and Exercises**
+# **Decision Tree: Overview and Exercises**
 
 This exercise showed how to construct and interpret a decision tree model using scikit-learn. 
 
