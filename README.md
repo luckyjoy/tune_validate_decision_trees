@@ -7,7 +7,7 @@ This notebook contains codes from the following:
 - [Build a Decision Tree with Python](#)
 - [Tune and Validate Decision Trees with Python](#)
 
-All the necessary information to complete this assignment is provided in this notebook. You'll implement all the required code here.
+All the necessary information to complete this assignment is provided in this notebook. 
 
 ### Topics Covered:
 - Importing relevant libraries and modules
